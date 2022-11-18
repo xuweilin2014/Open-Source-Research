@@ -1,6 +1,6 @@
 # Open-Source-Research
 
-各种开源项目代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
+各种开源项目代码学习研究(包括代码注释、文档、用于代码分析的测试用例)，其中某一个条目可能对应多个分析文档。
 
 + Dubbo
     + [Dubbo 自适应扩展机制](https://github.com/xuweilin2014/Open-Source-Research/blob/master/src/note/dubbo/dubbo%20source/DubboAdaptive.java)
